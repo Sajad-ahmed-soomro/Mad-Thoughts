@@ -1,4 +1,9 @@
 ## Getting Started
+Mad Thoughts – Full-Stack Blogging Platform
+
+• Developed using Next.js and MongoDB for a creative agency's content management.  
+• Integrated Google and GitHub OAuth for authentication and an admin dashboard.  
+• Designed responsive UI for optimal cross-device experience.
 
 First, install the dependencies:
 
