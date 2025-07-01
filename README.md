@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/febb704f-bdf5-4ce6-bac4-6921313a8be9)
-" alt="Mad Thoughts Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/febb704f-bdf5-4ce6-bac4-6921313a8be9" alt="Mad Thoughts Banner" width="100%" />
 </div>
 
 <h1 align="center">🧠 Mad Thoughts</h1>
