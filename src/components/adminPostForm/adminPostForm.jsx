@@ -3,7 +3,7 @@ import { addPost } from '@/lib/action'
 import styles from './adminPostForm.module.css'
 import { useFormState } from "react-dom"
 
-const adminPostForm = ({ userId }) => {
+const AdminPostForm = ({ userId }) => {
     const [state, formAction] = useFormState(addPost, undefined);
     return (
         <form action={formAction} className={styles.container}>
@@ -19,4 +19,4 @@ const adminPostForm = ({ userId }) => {
     )
 }
 
-export default adminPostForm
+export default AdminPostForm

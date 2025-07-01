@@ -4,7 +4,7 @@ import { deletePost } from '@/lib/action'
 import { getPosts } from '@/lib/data'
 import Image from 'next/image'
 
-const adminPost = async () => {
+const AdminPost = async () => {
   const posts = await getPosts();
 
   return (
@@ -26,4 +26,4 @@ const adminPost = async () => {
   )
 }
 
-export default adminPost
+export default AdminPost

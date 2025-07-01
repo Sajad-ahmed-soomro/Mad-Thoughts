@@ -11,6 +11,7 @@ export const generateMetadata = async({ params }) =>{
     title:post.title,
     description:post.desc
   }
+}
 
 const SinglePostPage = async ({ params }) => {
   const { slug } = params;
