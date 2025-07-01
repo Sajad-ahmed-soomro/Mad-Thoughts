@@ -9,11 +9,6 @@
   A creative blog platform built with Next.js where users can express their thoughts, and admins can manage content. Features include authentication, blog management, and admin control.
 </p>
 
----
-
-## 🚀 Live Demo
-
-👉 [View Mad Thoughts on GitHub](https://github.com/Sajad-ahmed-soomro/Mad-Thoughts)
 
 ---
 
