@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/febb704f-bdf5-4ce6-bac4-6921313a8be9" alt="Mad Thoughts Banner" width="100%" />
 </div>
@@ -9,7 +9,6 @@
   A creative blog platform built with Next.js where users can express their thoughts, and admins can manage content. Features include authentication, blog management, and admin control.
 </p>
 
----
 
 ## ✨ Features
 
@@ -20,7 +19,6 @@
 - ⚙️ Built-in MongoDB integration and data fetching  
 - 🛡️ JWT-based role control for admin-only actions  
 
----
 
 ## 🛠 Tech Stack
 
@@ -29,7 +27,6 @@
 - **Auth:** NextAuth (Google + Credentials)  
 - **Others:** React Hooks, ESLint, Prettier, Modular Components  
 
----
 
 ## 📂 Project Structure
 
